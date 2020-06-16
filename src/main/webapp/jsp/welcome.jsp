@@ -9,7 +9,7 @@
 <body>
 	<table>
 		<tr>
-			<td>Welcome ${firstname}</td>
+			<td>Welcome to Consumer banking : ${firstname}</td>
 		</tr>
 		<tr>
 		</tr>
