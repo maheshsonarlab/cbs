@@ -1,6 +1,6 @@
 ## TOOLS & TECHNOLOGIES
 	1. Java 1.8
-	2. MySQL DB
+	2. Postgres DB
 	3. Tomcat 8.5
 
 ## TOPICS COVERED
