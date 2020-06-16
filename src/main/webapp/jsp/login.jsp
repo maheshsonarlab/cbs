@@ -13,11 +13,11 @@
 		method="post">
 		<table align="center">
 			<tr>
-				<td><form:label path="username">Username: </form:label></td>
+				<td><form:label path="username">Username : </form:label></td>
 				<td><form:input path="username" name="username" id="username" /></td>
 			</tr>
 			<tr>
-				<td><form:label path="password">Password:</form:label></td>
+				<td><form:label path="password">Password :</form:label></td>
 				<td><form:password path="password" name="password"
 						id="password" /></td>
 			</tr>
