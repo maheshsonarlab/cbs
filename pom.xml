@@ -85,7 +85,7 @@
   </dependencies>
 
   <build>
-    <finalName>springmvc-user-reg-login</finalName>
+    <finalName>consumerbank-user-reg-login</finalName>
     <sourceDirectory>src/main/java</sourceDirectory>
     <plugins>
       <plugin>

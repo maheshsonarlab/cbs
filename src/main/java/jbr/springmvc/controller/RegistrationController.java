@@ -32,6 +32,6 @@ public class RegistrationController {
 
     userService.register(user);
 
-    return new ModelAndView("welcome", "firstname", user.getFirstname());
+    return new ModelAndView("welcome to Consumer Banking", "firstname", user.getFirstname());
   }
 }
