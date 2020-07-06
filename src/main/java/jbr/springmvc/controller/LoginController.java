@@ -36,7 +36,7 @@ public class LoginController {
     User user = userService.validateUser(login);
 
     if (null != user) {
-      mav = new ModelAndView("welcome to Consumer Banking");
+      mav = new ModelAndView("welcome");
       mav.addObject("firstname", user.getFirstname());
     } else {
       mav = new ModelAndView("login");
